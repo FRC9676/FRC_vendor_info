@@ -1,5 +1,5 @@
 # FRC Vendor Info
-
+List of vendors used regularly by our FRC team.
 ## Robotics Parts Vendors
 * [Find Robot Parts](https://findrobotparts.com/)
 * [AndyMark](https://www.andymark.com/)
