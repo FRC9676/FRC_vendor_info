@@ -1,4 +1,4 @@
-# FRC_Vendor_Info
+# FRC Vendor Info
 List of vendors used regularly by our FRC team.
 ## Robotics Parts Vendors
 * [Find Robot Parts](https://findrobotparts.com/)
@@ -13,4 +13,4 @@ List of vendors used regularly by our FRC team.
 
 ## Mechanical
 
-## Electronics Vendors
+## Electronics
