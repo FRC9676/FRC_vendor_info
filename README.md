@@ -10,7 +10,10 @@ List of vendors used regularly by our FRC team.
 * [VEX Robotics](https://www.vexrobotics.com/)
 
 ## COTS
-
+* [McMaster-Carr](https://www.mcmaster.com/)
+* [Bolt Depot](https://boltdepot.com/)
+* 
 ## Mechanical
 
 ## Electronics
+* [Digikey](https://www.digikey.com/)
